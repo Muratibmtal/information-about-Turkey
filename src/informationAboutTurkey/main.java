@@ -9,7 +9,7 @@ public class main {
         System.out.println("Türkiye Orta Doðu ülkesidir");
         System.out.println("Türkiyenin toprak genisligi 814.578 km²");
         System.out.println("Güncel Türkiye nüfusu: 83 milyon 614 bin 362");
-        System.out.println("Ülkede görülen toplam iklim sayýsý: 3 iklim görülür");
+        System.out.println("Ülkede görülen toplam iklim sayisi : 3 iklim görülür");
         System.out.println("Güncel iþsizlik oraný : %12");
         System.out.println("Genç nüfus oraný : %15,4");
         System.out.println("Toplam öðrenci sayisi : 18 milyon 241 bin 881");
